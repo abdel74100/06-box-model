@@ -45,9 +45,11 @@ padding: 30px;
   margin: 22px;
 }
 .formulaire{
-
     width: 100%;
     height: 400px;
+}
+.formulaire >h2{
+    margin-left: 20px;
 }
 .input{
     width: 100%;
